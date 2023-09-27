@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # BootToNetworkIsoOsdREDFISH. Python script using Redfish API with OEM extension to either get network ISO attach status, boot to network ISO or detach network ISO
 #

@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # _author_ = Texas Roemer <administrator@Dell.com>
 # _version_ = 5.0

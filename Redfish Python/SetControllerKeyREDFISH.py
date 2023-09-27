@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # SetControllerKeyREDFISH. Python script using Redfish API with OEM extension to set the storage controller key (enable encryption)
 #

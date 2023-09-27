@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # BiosResetToDefaultsREDFISH. Python script using Redfish API DMTF action to reset BIOS to default settings
 #

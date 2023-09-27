@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # CreateDeleteIdracUsersREDFISH.py Python script using Redfish API to either create or delete iDRAC user account.
 #

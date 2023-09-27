@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # DeviceFirmwareSimpleUpdateREDFISH. Python script using Redfish API to update a device firmware with DMTF action SimpleUpdate. Supported file image types are Windows DUPs, d7/d9 image or pm files.
 #

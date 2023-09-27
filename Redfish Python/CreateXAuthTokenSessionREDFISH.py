@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # CreateXAuthTokenSessionREDFISH. Python script using Redfish API to create X-AUTH token session for iDRAC user.
 #

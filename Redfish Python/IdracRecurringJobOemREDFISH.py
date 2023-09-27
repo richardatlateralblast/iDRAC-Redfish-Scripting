@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # IdracRecurringJobOemREDFISH. Python script using Redfish API with OEM to create recurring job for iDRAC or storage operation.
 #

@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # ResetConfigStorageREDFISH. Python script using Redfish API with OEM extension to reset the storage controller
 #

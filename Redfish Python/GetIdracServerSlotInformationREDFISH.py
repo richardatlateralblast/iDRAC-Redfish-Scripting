@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # GetIdracServerSlotInformationREDFISH. Python script using Redfish API with OEM extension to get iDRAC server slot information.
 #

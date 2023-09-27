@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # ExportFactoryConfigurationREDFISH. Python script using Redfish API with OEM extension to export server factory configuration to a network share
 #

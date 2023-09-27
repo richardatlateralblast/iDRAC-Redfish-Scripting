@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # ExportServerConfigurationNetworkShareREDFISH. Python script using Redfish API to export server configuration profile to a supported network share.
 #

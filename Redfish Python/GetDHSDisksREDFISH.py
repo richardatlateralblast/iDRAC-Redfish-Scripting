@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # GetDHSDisksREDFISH. Python script using Redfish API with OEM extension to get available disks for dedicated hot spare(DHS) assignment
 #

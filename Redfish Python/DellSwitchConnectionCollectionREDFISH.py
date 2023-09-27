@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # DellSwitchConnectionCollectionREDFISH.py   Python script using Redfish API with OEM extension to get Dell switch network connections. 
 #

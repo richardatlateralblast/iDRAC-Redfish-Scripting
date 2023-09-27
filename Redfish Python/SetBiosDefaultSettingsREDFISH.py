@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # SetBiosDefaultSettingsREDFISH. Python script using Redfish API to set BIOS to default settings.
 #

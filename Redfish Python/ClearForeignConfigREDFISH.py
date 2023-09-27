@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # ClearForeignConfigREDFISH. Python script using Redfish API with OEM extension to clear a storage controller foreign configuration
 #

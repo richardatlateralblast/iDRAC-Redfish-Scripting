@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # CancelCheckConsistencyREDFISH. Python script using Redfish API with OEM extension to cancel check consistency on virtual disk
 #

@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # ImportSystemConfigurationPreviewLocalFilenameREDFISH. Python script using Redfish API to preview a local system configuration file. 
 #

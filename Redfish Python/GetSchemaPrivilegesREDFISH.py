@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # GetSchemaPrivilegesREDFISH. Python script using Redfish API DMTF to get schema privileges.
 #

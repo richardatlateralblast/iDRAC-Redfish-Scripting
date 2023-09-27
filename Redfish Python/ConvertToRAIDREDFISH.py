@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # ConvertToRAIDREDFISH. Python script using Redfish API with OEM extension to convert drives to RAID or ready state
 #

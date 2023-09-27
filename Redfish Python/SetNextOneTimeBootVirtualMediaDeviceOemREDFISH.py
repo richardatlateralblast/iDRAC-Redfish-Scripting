@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # SetNextOneTimeBootVirtualMediaDeviceOemREDFISH. Python script using Redfish API with OEM extension to set next onetime boot device to either virtual optical or virtual floppy.
 #

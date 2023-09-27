@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # TestNetworkShareREDFISH. Python script using Redfish API with OEM extension to test iDRAC access to network share
 #

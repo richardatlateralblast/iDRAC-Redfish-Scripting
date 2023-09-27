@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # ImportSystemConfigurationNetworkShareREDFISH. Python script using Redfish API to import server configuration profile from a network share. 
 #

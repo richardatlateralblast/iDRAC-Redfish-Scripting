@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # ExportThermalHistoryREDFISH. Python script using Redfish API with OEM extension to export server thermal history to a network share
 #

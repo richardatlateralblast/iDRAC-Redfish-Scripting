@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # DeleteJobQueueREDFISH.py  Python script using Redfish API with OEM extension to get either delete single job ID, delete complete job queue or delete job queue and restart Lifecycle Controller services.
 #

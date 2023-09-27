@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # SetNetworkDevicePropertiesREDFISH. Python script using Redfish API to either get network devices/ports or set network properties.
 #

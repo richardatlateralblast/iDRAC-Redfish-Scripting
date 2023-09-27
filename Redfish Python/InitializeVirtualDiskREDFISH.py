@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # InitializeVirtualDiskREDFISH. Python script using Redfish API to either get controllers / current virtual disks or initialize virtual disk.
 #

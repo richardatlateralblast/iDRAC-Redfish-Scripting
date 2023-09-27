@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # ManageIdracUserSshKeysREDFISH.py Python script using Redfish API to manage iDRAC user account SSH keys. 
 #

@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # SensorCollectionREDFISH. Python script using Redfish API OEM extensoion to get iDRAC sensor collection data.
 #

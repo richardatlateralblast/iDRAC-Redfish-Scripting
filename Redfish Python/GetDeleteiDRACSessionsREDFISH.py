@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # GetDeleteiDRACSessionsREDFISH. Python script using Redfish API to either get current iDRAC sessions or delete iDRAC session
 #

@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # BlinkUnBlinkTargetREDFISH. Python script using Redfish API with OEM extension to either blink or unblink storage device (drives or virtual disk)
 #

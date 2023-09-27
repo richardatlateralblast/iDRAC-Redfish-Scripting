@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # GetSetPowerStateREDFISH. Python script using Redfish API to change current server power state.
 #

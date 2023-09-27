@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # ExportVideoLogREDFISH. Python script using Redfish API with OEM extension to export either boot capture videos or crash capture video locally.
 #

@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # GetSystemHWInventoryREDFISH. Python script using Redfish API to get system hardware inventory
 #

@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # SetNextOneTimeBootDeviceREDFISH. Python script using Redfish API to set next reboot one time boot device.
 #

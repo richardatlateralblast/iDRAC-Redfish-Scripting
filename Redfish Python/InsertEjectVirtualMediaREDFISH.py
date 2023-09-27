@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # InsertEjectVirtualMediaREDFISH. Python script using Redfish API DMTF to either get virtual media information, insert or eject virtual media
 #

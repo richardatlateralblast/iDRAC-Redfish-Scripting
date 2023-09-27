@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # ServerVirtualAcPowerCycleREDFISH. Python script using Redfish API to virtual a/c power cycle the server.
 #

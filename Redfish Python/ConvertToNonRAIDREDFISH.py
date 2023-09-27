@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # ConvertToNonRAIDREDFISH. Python script using Redfish API with OEM extension to convert drives to non RAID state
 #

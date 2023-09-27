@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # SupportAssistCollectionNetworkShareREDFISH. Python script using Redfish API with OEM extension to export Support Assist collection to a network share
 #

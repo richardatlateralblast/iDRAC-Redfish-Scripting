@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # ResetIdracREDFISH. Python script using Redfish API to reset iDRAC.
 #

@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # GetOSNetworkInformationREDFISH. Python script using Redfish API to get host operating system (OS) network information.
 #

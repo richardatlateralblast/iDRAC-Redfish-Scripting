@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # AssignHotSpareREDFISH. Python script using Redfish API to either assign dedicated or global hot spare
 #

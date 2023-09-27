@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # RunDiagnosticsREDFISH. Python script using Redfish API with OEM extension to run remote diagnostics on the server.
 #

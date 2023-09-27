@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # GetDiskOperationREDFISH. Python script using Redfish API DMTF to get check a disk if any operations are in progress.
 #

@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # UnpackAndAttachOsdREDFISH. Python script using Redfish API with OEM extension to either get driver pack information, unpack and attach driver pack or detach driver pack
 #

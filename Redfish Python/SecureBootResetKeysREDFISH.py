@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # SecureBootResetKeysREDFISH. Python script using Redfish API to either get supported reset key types or reset secure boot keys.
 #

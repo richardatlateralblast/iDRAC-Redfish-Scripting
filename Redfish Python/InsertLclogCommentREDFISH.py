@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # InsertLclogCommentREDFISH. Python script using Redfish API with OEM extension to add a custom string comment to iDRAC Lifecycle logs.
 #

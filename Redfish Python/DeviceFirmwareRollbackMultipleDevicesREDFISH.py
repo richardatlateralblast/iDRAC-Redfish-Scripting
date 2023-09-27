@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # DeviceFirmwareRollbackMultipleDevicesREDFISH. Python script using Redfish API with OEM extension to rollback firmware for multiple devices iDRAC supports. 
 #

@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # ChangeVirtualDiskAttributesREDFISH. Python script using Redfish API to either get controllers, get virtual disks or change virtual disk read, write or disk cache policy settings.
 #

@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # GetOSInformationREDFISH. Python script using Redfish API with OEM extension to get OS information using Server Configuration Profile feature
 #

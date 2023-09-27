@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # RekeyREDFISH. Python script using Redfish API with OEM extension to rekey or change the controller encryption key
 #
